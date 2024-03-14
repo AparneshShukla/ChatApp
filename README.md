@@ -1,4 +1,4 @@
-# Chit_Chat-Application
+# Chat-App
 
 # Server Terminal
 * This C++ code implements a simple TCP server using the Winsock library. The server listens on a specified port for incoming client connections and facilitates communication among connected clients.
